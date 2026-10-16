@@ -1,0 +1,298 @@
+{
+  "uid": "bf20be6e423e41d191134ab77c590992",
+  "slug": "football-goal",
+  "user": {
+    "account": "basic",
+    "avatars": {
+      "uid": "56c1332d395c4faa86075ec51247489f",
+      "images": [
+        {
+          "width": 100,
+          "height": 100,
+          "size": 5853,
+          "url": "https://media.sketchfab.com/avatars/56c1332d395c4faa86075ec51247489f/5167abeedcda42b3b9c71c91bdb27cda.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 5045,
+          "url": "https://media.sketchfab.com/avatars/56c1332d395c4faa86075ec51247489f/5d61f5766031426291616e4a78c93f27.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 2049,
+          "url": "https://media.sketchfab.com/avatars/56c1332d395c4faa86075ec51247489f/b47ea637ae604d9aa2c4f76630673f38.jpeg"
+        },
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1190,
+          "url": "https://media.sketchfab.com/avatars/56c1332d395c4faa86075ec51247489f/88f0f0670b0143c9895ffb7191faa964.jpeg"
+        }
+      ]
+    },
+    "displayName": "romullus",
+    "isAiRestricted": true,
+    "traderSettings": {
+      "isTrader": null,
+      "isVerifiedTrader": false
+    },
+    "planDetail": null,
+    "profileUrl": "https://sketchfab.com/romullus",
+    "uid": "26ede2b669954abb836dc7327669e4aa",
+    "username": "romullus"
+  },
+  "name": "Football Goal",
+  "description": "Basic footbal goal model.",
+  "htmlDescription": "&lt;p&gt;Basic footbal goal model.&lt;/p&gt;",
+  "thumbnails": {
+    "uid": "583a14d6b18743da879967333109c47f",
+    "images": [
+      {
+        "uid": "d0dd42e1c1764ce994ea815990751f35",
+        "width": 1920,
+        "height": 1080,
+        "size": 413054,
+        "url": "https://media.sketchfab.com/models/bf20be6e423e41d191134ab77c590992/thumbnails/583a14d6b18743da879967333109c47f/4eceeb0eea3c409aa2737eddd16a1a24.jpeg"
+      },
+      {
+        "uid": "ce761e5fe78c45f48fa6383dc0d03328",
+        "width": 1024,
+        "height": 576,
+        "size": 103372,
+        "url": "https://media.sketchfab.com/models/bf20be6e423e41d191134ab77c590992/thumbnails/583a14d6b18743da879967333109c47f/2618b9761367480abd71778dcd8bd493.jpeg"
+      },
+      {
+        "uid": "e037f1a1fdbf4278a96a5ed689748a61",
+        "width": 720,
+        "height": 405,
+        "size": 51212,
+        "url": "https://media.sketchfab.com/models/bf20be6e423e41d191134ab77c590992/thumbnails/583a14d6b18743da879967333109c47f/db639eb987ca44278672f39c9cfcda23.jpeg"
+      },
+      {
+        "uid": "0eb3a0dc37554a2b98a35a6a9cb3ee6b",
+        "width": 256,
+        "height": 144,
+        "size": 6369,
+        "url": "https://media.sketchfab.com/models/bf20be6e423e41d191134ab77c590992/thumbnails/583a14d6b18743da879967333109c47f/b3a2f88c9a9545ada044b88e947d019a.jpeg"
+      },
+      {
+        "uid": "ccf865db42234d608b32804ea82b7aba",
+        "width": 64,
+        "height": 36,
+        "size": 1219,
+        "url": "https://media.sketchfab.com/models/bf20be6e423e41d191134ab77c590992/thumbnails/583a14d6b18743da879967333109c47f/89025428340240578717f2f850f526f7.jpeg"
+      }
+    ]
+  },
+  "vertexCount": 222250,
+  "faceCount": 222840,
+  "viewCount": 41289,
+  "likeCount": 217,
+  "animationCount": 0,
+  "staffpickedAt": null,
+  "publishedAt": "2023-07-02T14:15:41.655502",
+  "createdAt": "2023-07-02T13:30:13.820588",
+  "tags": [
+    "gate",
+    "football",
+    "goal",
+    "game",
+    "noai",
+    "football-goal"
+  ],
+  "orgTags": [],
+  "categories": [
+    {
+      "uid": "ac8a0065d9e34fca8a3ffa9c6db39bff",
+      "name": "Sports & Fitness",
+      "slug": "sports-fitness"
+    }
+  ],
+  "license": {
+    "uid": "b9ddc40b93e34cdca1fc152f39b9f375",
+    "label": "CC Attribution-ShareAlike",
+    "fullname": "Creative Commons Attribution-ShareAlike",
+    "slug": "by-sa",
+    "summary": "Share & adapt with credit, share under the same conditions",
+    "requirements": "Author must be credited. Modified versions must have the same license. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by-sa/4.0/",
+    "free": true,
+    "isCc": true,
+    "needsAttribution": true,
+    "ccClauses": [
+      "Attribution",
+      "ShareAlike"
+    ]
+  },
+  "isStoreLicenseLocked": false,
+  "viewerUrl": "https://sketchfab.com/3d-models/football-goal-bf20be6e423e41d191134ab77c590992",
+  "embedUrl": "https://sketchfab.com/models/bf20be6e423e41d191134ab77c590992/embed",
+  "editorUrl": "https://sketchfab.com/models/bf20be6e423e41d191134ab77c590992/edit",
+  "reviewUrl": "https://sketchfab.com/models/bf20be6e423e41d191134ab77c590992/review",
+  "publicCommentCount": 4,
+  "orgCommentCount": 0,
+  "downloadType": "free",
+  "isInspectable": true,
+  "hasPromotionalContent": false,
+  "downloadCount": 18615,
+  "status": {
+    "processing": "SUCCEEDED"
+  },
+  "isPublished": true,
+  "originalFileName": "footbal_goal",
+  "processingStatus": 2,
+  "archiveSize": 8945392,
+  "ext": "fbx",
+  "isDeleted": false,
+  "isRestricted": false,
+  "processedAt": "2023-07-02T13:30:42.210929",
+  "files": [
+    {
+      "uid": "8288935bb96a4f638798cde3e079f688",
+      "flag": 0,
+      "osgjsUrl": "https://media.sketchfab.com/models/bf20be6e423e41d191134ab77c590992/b70e6ecfc78b40ddab5faa85a3cd5a44/files/8288935bb96a4f638798cde3e079f688/file.binz",
+      "modelSize": 1284496,
+      "osgjsSize": 8925,
+      "wireframeSize": 1592882,
+      "p": [
+        {
+          "v": 1,
+          "b": "VKnQmd2Bh8WT/N0Pgpg/rvE2z2Sa5b5iPYGZAgSa+BZK7vzCyB44pUEJaNB222/VBpjtxAQwNtcY\n1JuOQCIJJxECMQ0+mbwd0ZYypZQCQQA9AEYAk6LwUuQYnHSRN+06euhMZwU9Qr4+SeZfn2n142xK\n62PTgMQ/NgsoT5pNHXW/LZyJDjHJtxBVs48Q8kC+DMCKygchDb8rbv+auIyPDcRnfFK0npy7tApP\nmrvLzzTmwB8z4MlurG1ZJAELgWMXYbeoseMW7chHoI+zKVfQRydnrJkGwbNmGswuzQzgDB2ttZvn\nfe3mPXDBUpd3wVQtdnCAf+WplPiVx+Kg9QONQvwH2rBMkYOKvcg5Sbggc9bAWHjWSDDiyby3LsBx\n8wvIepDlpUDEuVQERhnpbo5j5m5K2DGdNfSmHyYl6KJHutfEeep390KgFOCECgMKys4EFl92KGwo\nnQIiKNAmILJ5UAiyCnQOdgPTmABeRkayELGHtpg6DRCADVvnyxNg4FSxlCTNJJ8V73EsBtbSuRM3\ngRojA5zZLgX6gYbxEsQG3Bg=",
+          "d": true
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "quad": 0,
+    "triangle": 222840,
+    "polygon": 0,
+    "line": 0,
+    "point": 0,
+    "totalTriangle": 222840,
+    "vertexCount": 222250,
+    "hasNormal": true,
+    "hasTangent": false,
+    "hasVertexColor": false,
+    "pbrType": null,
+    "textureCount": 2,
+    "materialCount": 2,
+    "isRigged": false,
+    "morph": 0,
+    "scale": false,
+    "animation": 0,
+    "uvMapped": true,
+    "sourceFiles": {
+      "3d": [
+        {
+          "version": "",
+          "filepath": "source/footbal_goal.fbx",
+          "filesize": 8945392,
+          "extension": "fbx",
+          "fileformat": "Autodesk FBX"
+        }
+      ],
+      "misc": [],
+      "count": 1,
+      "image": []
+    },
+    "textureFiles": [
+      {
+        "width": 512,
+        "format": "RGB",
+        "height": 512,
+        "is8bit": true,
+        "filepath": "textures/internal_ground_ao_texture.jpeg",
+        "filesize": 27172,
+        "extension": "jpeg",
+        "fileformat": "JPEG"
+      },
+      {
+        "width": 1024,
+        "format": "RGB",
+        "height": 1024,
+        "is8bit": true,
+        "filepath": "textures/rope_ao.png",
+        "filesize": 701549,
+        "extension": "png",
+        "fileformat": "Portable Network Graphics"
+      },
+      {
+        "width": 1024,
+        "format": "RGB",
+        "height": 1024,
+        "is8bit": true,
+        "filepath": "textures/rope_normal.png",
+        "filesize": 664248,
+        "extension": "png",
+        "fileformat": "Portable Network Graphics"
+      }
+    ]
+  },
+  "price": null,
+  "inStore": false,
+  "averageRating": 0.0,
+  "reviewCount": 0,
+  "preferOriginalNormalMap": false,
+  "isDisabled": false,
+  "hasCommentsDisabled": false,
+  "exporter": null,
+  "displayStatus": "ok",
+  "version": {
+    "uid": "b70e6ecfc78b40ddab5faa85a3cd5a44",
+    "status": {
+      "processing": "SUCCEEDED"
+    },
+    "isCurrentVersion": true,
+    "isCandidateVersion": false,
+    "createdAt": "2023-07-02T13:30:14.285064",
+    "processedAt": "2023-07-02T13:30:42.144444",
+    "reason": "upload"
+  },
+  "visibility": "public",
+  "org": null,
+  "isAiGenerated": false,
+  "isArEnabled": false,
+  "isArAvailable": false,
+  "archivesStatus": [
+    {
+      "type": "source",
+      "exists": true,
+      "status": "Succeeded"
+    },
+    {
+      "type": "gltf",
+      "exists": true,
+      "status": "Succeeded"
+    },
+    {
+      "type": "extra",
+      "exists": false,
+      "status": null
+    },
+    {
+      "type": "usdz",
+      "exists": true,
+      "status": "Succeeded"
+    },
+    {
+      "type": "gltf-ar",
+      "exists": false,
+      "status": null
+    },
+    {
+      "type": "uasset",
+      "exists": false,
+      "status": null
+    },
+    {
+      "type": "glb",
+      "exists": true,
+      "status": "Succeeded"
+    }
+  ],
+  "mayDownloadThisModel": false,
+  "fabMigrationListingId": null
+}

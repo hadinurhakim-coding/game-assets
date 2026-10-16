@@ -1,0 +1,21 @@
+{
+  "mesh_name": "SK_Brazil_Player",
+  "skeleton_root": "root",
+  "vertices": 32494,
+  "polygons": 51474,
+  "total_rig_bones": 87,
+  "ue5_deform_and_ik_bones": 68,
+  "control_helper_bones": 19,
+  "baked_actions": [
+    "A_FM_Idle_Pitch",
+    "A_FM_Kick_PowerShot",
+    "A_FM_Rest_APose",
+    "A_FM_Run_Dribble",
+    "A_FM_Showcase_All_Movements"
+  ],
+  "exports": [
+    "c:/Users/Legion 3/Documents/PROJECT/animasi/karakter/Output/Karakter_Brazil_UE5.blend",
+    "c:/Users/Legion 3/Documents/PROJECT/animasi/karakter/Output/Karakter_Brazil_UE5.fbx",
+    "c:/Users/Legion 3/Documents/PROJECT/animasi/karakter/Output/Karakter_Brazil_UE5.glb"
+  ]
+}

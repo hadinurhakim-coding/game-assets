@@ -1,0 +1,12 @@
+{
+  "name": "Karakter Brazil",
+  "height_m": 1.8,
+  "vertices": 383614,
+  "faces": 382762,
+  "quad_percent": 99.98,
+  "bones": 52,
+  "materials": 12,
+  "unweighted_vertices": 0,
+  "pose_test_max_displacement_m": 0.1824,
+  "pose_test_moved_vertices": 90224
+}
